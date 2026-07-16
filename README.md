@@ -13,6 +13,8 @@ Deployed a 3-node RKE2 cluster secured with Falco eBPF runtime IDS and Cilium eB
 - Built a centralized detection pipeline (Falco → Falcosidekick → Logstash → Elasticsearch → Kibana), streaming runtime alerts and Hubble network flows into searchable dashboards for real-time incident investigation and forensics.
 
 
+https://gianghitran.github.io/Kubernetes-eBPF-Security-Lab-Deployment-Architecture/
+
 
 <img width="850" height="770" alt="image" src="https://github.com/user-attachments/assets/1a40cfd4-5ed4-4a2f-a52a-d1df96e9a99f" />
 
